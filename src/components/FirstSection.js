@@ -230,7 +230,7 @@ function FirstSection() {
             className="first"
             // whileHover={{ scale: 1.1 }}
             // whileTap={{ scale: 0.9 }}
-            onClick={() => window.open("https://app.modedomains.xyz/")}
+            onClick={() => window.open("https://app.modedomains.lampros.tech/")}
           >
             Get your .mode on!
           </button>
